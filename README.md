@@ -2,7 +2,7 @@
 ## Aim:
 To write html & css code to create Web-Layout using FLEXBOX.
 ## Algorithm:
-### Step 1:
+### Step 1: 
 Create a html code for the Web-Layout.
 ### Step 2:
 Make style for the Web Layout using style tag.
